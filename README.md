@@ -1,2 +1,2 @@
 # DeporteSano
-Proyecyo Final Awakelab "Deporte Sano"
+Proyecto Final Awakelab "Deporte Sano"
