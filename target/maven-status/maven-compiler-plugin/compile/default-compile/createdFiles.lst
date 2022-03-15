@@ -1,0 +1,14 @@
+cl\awakelab\controller\SolucionesController.class
+cl\awakelab\model\DAO\IActividadDAO.class
+cl\awakelab\config\DeporteVidaAppConfig.class
+cl\awakelab\controller\AcercaController.class
+cl\awakelab\controller\HomeController.class
+cl\awakelab\service\ActividadServiceImpl.class
+cl\awakelab\service\IActividadService.class
+cl\awakelab\config\DeporteVidaSecurityConfig.class
+cl\awakelab\model\repository\IActividadRepository.class
+cl\awakelab\model\entity\Actividades.class
+cl\awakelab\model\DAO\ActividadDAOImpl$CapacitacionRowMapper.class
+cl\awakelab\config\SpringMvcDispatcherServletInitializer.class
+cl\awakelab\model\DAO\ActividadDAOImpl.class
+cl\awakelab\controller\ActividadController.class
